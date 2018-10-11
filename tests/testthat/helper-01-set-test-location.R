@@ -13,3 +13,4 @@ inputTestDataPath <- "./tests/testData/input/"
 # Test output files folder.
 SETestDataPath <- "../testData/test-04-searcher-efficiency-functions/"
 CPTestDataPath <- "../testData/test-05-carcass-persistence-functions/"
+DPTestDataPath <- "../testData/test-06-detection-probability-functions/"
